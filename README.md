@@ -1,16 +1,15 @@
 Hi, I'm Murad 👋
 
-I'm a Chief Product Officer and product builder. I lead the Product and Engineering teams at [Flomni](https://flomni.com/en), where we build useful tools that make life easier for our customers.
+I'm a product leader who believes the best products come from understanding people, not just technology. Currently CPO at [Flomni](https://flomni.com/en), where I help teams build tools that actually solve real problems.
 
-🚀 I like figuring out how things work and finding better ways to build them. Sometimes I write code, sometimes I sketch out ideas, and most of the time I'm connecting the dots between people, problems, and solutions.
+🚀 I spend my days at the intersection of product strategy, engineering, and user needs. My superpower? Taking complex problems and breaking them down into simple, actionable solutions.
 
-✍️ I write a lot! This [blog](https://murabcd.vercel.app) is where I share what I'm learning from working with AI and tech, to building products and leading teams. Nothing fancy - just real experiences, ideas, and lessons worth sharing.
+✍️ I share insights about product development, AI integration, and team leadership on my [blog](https://murabcd.vercel.app). Real stories from the trenches, not just theory.
 
-😅 Fun fact: I once spent 3 months building a product feature that nobody used, which taught me more about product development than any successful feature ever did.
+😅 Fun fact: I once built a water cooler that accepted Bitcoin payments. Because the world wasn't ready for such a revolutionary combination. Sometimes the best ideas make people say "wait, what?"
 
-I'm best reached via [email](mailto:murad@flomni.com). I'm always open to interesting conversations about product, AI, and building things that matter.
+I'm best reached via [email](mailto:murad@flomni.com) or [LinkedIn](https://www.linkedin.com/in/murabcd/). Always happy to chat about product challenges, AI opportunities, or just interesting problems worth solving.
 
 **Connect with me:**
-- [Blog](https://murabcd.vercel.app)
-- [X](https://x.com/murabcd)
-- [LinkedIn](https://www.linkedin.com/in/murabcd/)
+
+[Blog](https://murabcd.vercel.app) · [X](https://x.com/murabcd) · [LinkedIn](https://www.linkedin.com/in/murabcd/) · [GitHub](https://github.com/murabcd)
