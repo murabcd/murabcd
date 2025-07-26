@@ -11,4 +11,6 @@ I'm a Chief Product Officer and product builder. I lead the Product and Engineer
 I'm best reached via [email](mailto:murad@flomni.com). I'm always open to interesting conversations about product, AI, and building things that matter.
 
 **Connect with me:**
-[Blog](https://murabcd.vercel.app) · [X](https://x.com/murabcd) · [LinkedIn](https://www.linkedin.com/in/murabcd/) · [GitHub](https://github.com/murabcd)
+- [Blog](https://murabcd.vercel.app)
+- [X](https://x.com/murabcd)
+- [LinkedIn](https://www.linkedin.com/in/murabcd/)
