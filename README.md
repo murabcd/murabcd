@@ -4,7 +4,7 @@ I build products by focusing on people, not just the tech behind them. As CPO at
 
 🚀 My main job is to turn complex challenges into simple plans. I connect the dots between our product goals, our engineering team, and what our users actually need.
 
-✍️ On my blog, I share stories from the trenches the good, the bad, and the lessons learned while building products, working with AI, and leading teams.
+✍️ On my [blog](https://murabcd.vercel.app), I share stories from the trenches the good, the bad, and the lessons learned while building products, working with AI, and leading teams.
 
 😅 Fun fact: I once built a water cooler that accepted Bitcoin. It was a spectacular failure, but taught me that the most interesting ideas are the ones that make people say, "wait, what?"
 
